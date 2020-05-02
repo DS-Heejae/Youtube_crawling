@@ -10,7 +10,7 @@
 
 ## 1. 프로젝트 진행 동기
 
-- 신뢰할 수 있는 언론 매체 - 유튜브
+- 새롭게 떠오른 언론 매체 - 유튜브
   - <시사in> 신뢰도 조사에서 유튜브가 신뢰하는 언론 매체 2위를 차지하였다.(1)
 ![sisain](https://user-images.githubusercontent.com/60166667/80870497-c17dd180-8ce1-11ea-8dbb-f1b2e404e3e7.jpeg)
 
@@ -42,19 +42,13 @@
 -  형태소 분석 결과(분석기?)
      ![plot](https://user-images.githubusercontent.com/60166667/78257681-24d6e100-7535-11ea-93b7-4647893dbc76.png)
      
-     - '타다'를 명사 대신, 동사로 인식하는 오류가 있어 Hannanum 사전에 명사로 추가하였음.
-
-   
-  
+     
     -  워드 클라우드 분석 결과(단어 개수?)
-
-   
     ![car](https://user-images.githubusercontent.com/60166667/78257625-12f53e00-7535-11ea-9e51-44e477347f52.png)
    
   
    
-    -  단어 별 네트워크 분석 결과(지지도?)
-     
+    -  단어 별 네트워크 분석 결과(지지도?) 
      <img width="911" alt="다운로드" src="https://user-images.githubusercontent.com/60166667/80065819-b99d8f00-8575-11ea-9c79-f7d2477635bb.png">
      
 
