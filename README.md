@@ -45,7 +45,7 @@
    ![plot](https://user-images.githubusercontent.com/60166667/78257681-24d6e100-7535-11ea-93b7-4647893dbc76.png)
      
 -  워드 클라우드 분석 결과(단어 개수?)
-    <img width="517" alt="wordcloud" src="https://user-images.githubusercontent.com/60166667/80870745-7369cd80-8ce3-11ea-8d06-464c096f7718.png">
+    - <img width="517" alt="wordcloud" src="https://user-images.githubusercontent.com/60166667/80870745-7369cd80-8ce3-11ea-8d06-464c096f7718.png">
 
    
 -  단어 별 네트워크 분석 결과(지지도?) 
