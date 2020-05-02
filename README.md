@@ -69,7 +69,7 @@
         
    - 크롤링 방법
         - AWS EC2 환경에서 YouTube '타다 금지법' 영상 댓글 크롤링
-        - scrapy 프레임워크 사용 + module 혼합
+        - scrapy 프레임워크 + module 혼합하여 사용
 
    - 데이터의 저장
         - DB: mongodb 데이터 베이스에 크롤링한 데이터 저장하는 파이프라인 구축
@@ -82,9 +82,9 @@
 
 ## 5. 분석 과정에서 작성한 python 코드
 - Crawling
-  - Requirement.txt: 설치 필요한 패키지
-  - scrapy.py: scrapy를 활용하여 댓글 수집, MongoDB에 저장한 코드
-  - module.py
+  - Requirement.txt: 분석에 필요한 패키지
+  - scrapy.py: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
+  - module.py: 크롤링에 사용한 모듈
   
 - Comment Analyzer
   - ? : 형태소 분석, 네트워크 분석
