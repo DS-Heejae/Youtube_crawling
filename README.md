@@ -44,12 +44,11 @@
      ![plot](https://user-images.githubusercontent.com/60166667/78257681-24d6e100-7535-11ea-93b7-4647893dbc76.png)
      
      
- -  워드 클라우드 분석 결과(단어 개수?)
+-  워드 클라우드 분석 결과(단어 개수?)
     ![car](https://user-images.githubusercontent.com/60166667/78257625-12f53e00-7535-11ea-9e51-44e477347f52.png)
    
-  
    
- -  단어 별 네트워크 분석 결과(지지도?) 
+-  단어 별 네트워크 분석 결과(지지도?) 
      <img width="911" alt="다운로드" src="https://user-images.githubusercontent.com/60166667/80065819-b99d8f00-8575-11ea-9c79-f7d2477635bb.png">
      
 
