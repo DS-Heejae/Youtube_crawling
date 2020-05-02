@@ -29,7 +29,8 @@
    - 네이버와 다음은 텍스트 기사 바탕으로 댓글이 주로 서비스 되고 있는데, 두 사이트의 댓글은 성향에 따라 극단적으로 나눠지는 것으로 파악되고 있다(3).
   
 
-- 분석 주제 : '타다 금지법' - '혁신”vs“불법” 타다와 택시의 뜨거운 공방전 
+- 분석 주제 : '타다 금지법'
+  - '혁신”vs“불법” 타다와 택시의 뜨거운 공방전 
  
   ![illegal](https://user-images.githubusercontent.com/60166667/80869873-c8a2e080-8cdd-11ea-80bc-47d5eb504300.jpg)
   
@@ -44,7 +45,7 @@
    ![plot](https://user-images.githubusercontent.com/60166667/78257681-24d6e100-7535-11ea-93b7-4647893dbc76.png)
      
 -  워드 클라우드 분석 결과(단어 개수?)
-  - <img width="517" alt="wordcloud" src="https://user-images.githubusercontent.com/60166667/80870745-7369cd80-8ce3-11ea-8d06-464c096f7718.png">
+    <img width="517" alt="wordcloud" src="https://user-images.githubusercontent.com/60166667/80870745-7369cd80-8ce3-11ea-8d06-464c096f7718.png">
 
    
 -  단어 별 네트워크 분석 결과(지지도?) 
