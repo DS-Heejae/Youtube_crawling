@@ -86,7 +86,7 @@
   - module.py: 크롤링에 사용한 모듈
   
 - Comment Analyzer
-  - 추가 예정 : 단어 빈도, 워드 클라우드, 네트워크 분석
+  - frequency_network_analysis : 단어 빈도, 워드 클라우드, 네트워크 분석
   - 추가 예정 : 나이브 베이즈 분류
 
 
