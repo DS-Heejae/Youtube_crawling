@@ -86,7 +86,7 @@
 ## 4. 분석 과정에서 작성한 python 코드 폴더
 
 - Crawling
-  - Requirement.txt: 에 필요한 패키지
+  - Requirement.txt: 크롤링에 필요한 패키지
   - scrapycode.ipynb: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
   - module.py: 크롤링에 사용한 모듈
   
