@@ -43,17 +43,20 @@
 
 ## 2. 분석 결과
 
--  형태소 분석 결과(분석기?)
-   ![plot](https://user-images.githubusercontent.com/60166667/78257681-24d6e100-7535-11ea-93b7-4647893dbc76.png)
+-  단어 빈도 분석
+![count1](https://user-images.githubusercontent.com/60166667/80899141-74cce180-8d47-11ea-8776-b6807a56f8fc.png)
+
      
--  워드 클라우드 분석 결과(단어 개수?)
-    - <img width="517" alt="wordcloud" src="https://user-images.githubusercontent.com/60166667/80870745-7369cd80-8ce3-11ea-8d06-464c096f7718.png">
+-  워드 클라우드 분석 결과
+  ![carword](https://user-images.githubusercontent.com/60166667/80899145-8f9f5600-8d47-11ea-9205-b6d7e615f052.png)
 
    
--  단어 별 네트워크 분석 결과(지지도?) 
-   <img width="911" alt="다운로드" src="https://user-images.githubusercontent.com/60166667/80065819-b99d8f00-8575-11ea-9c79-f7d2477635bb.png">
-     
-    - 나이브 베이즈 분류 결과
+-  단어 별 네트워크 분석 결과
+  <img width="911" alt="networktada" src="https://user-images.githubusercontent.com/60166667/80899143-81513a00-8d47-11ea-915d-1c2082c01553.png">
+  
+  
+   
+- 나이브 베이즈 분류 결과
     
     
     
