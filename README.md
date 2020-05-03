@@ -57,8 +57,10 @@
   <img width="949" alt="스크린샷 2020-05-03 오후 9 00 09" src="https://user-images.githubusercontent.com/60166667/80913640-158bc300-8d81-11ea-9814-f27c559e6a10.png">
 
    
-- 나이브 베이즈 분류 결과(1: '타다' 편 2: '택시' 편 3: '중립')
-  <img width="839" alt="스크린샷 2020-05-03 오후 11 21 44" src="https://user-images.githubusercontent.com/60166667/80916627-dc5d4e00-8d94-11ea-9c72-456e60bc7885.png">
+- 나이브 베이즈 분류 결과(1: '타다' 편 2: '택시' 편 3: '미분류')
+  <img width="683" alt="스크린샷 2020-05-03 오후 11 46 26" src="https://user-images.githubusercontent.com/60166667/80917187-4fb48f00-8d98-11ea-95b6-76cc04604d4b.png">
+  
+<img width="985" alt="스크린샷 2020-05-03 오후 11 58 16" src="https://user-images.githubusercontent.com/60166667/80917469-09602f80-8d9a-11ea-9ca8-3f360895ca35.png">
 
 
 ## 3. 데이터 수집 프로세스 및 구조도
