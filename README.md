@@ -50,7 +50,7 @@
      
 -  워드 클라우드 분석 결과
 
- ![carword](https://user-images.githubusercontent.com/60166667/80899145-8f9f5600-8d47-11ea-9205-b6d7e615f052.png)
+ <img width="543" alt="carimage" src="https://user-images.githubusercontent.com/60166667/80918946-72e43c00-8da2-11ea-8b64-bcd7dcf59d03.png">
 
    
 -  단어 별 네트워크 분석 결과(지지도 0.017)
@@ -85,12 +85,12 @@
 ## 4. 분석 과정에서 작성한 python 코드 폴더
 
 - Crawling
-  - Requirement.txt: 분석에 필요한 패키지
+  - Requirement.txt: 에 필요한 패키지
   - scrapycode.ipynb: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
   - module.py: 크롤링에 사용한 모듈
   
 - Comment Analyzer
-  - Requirement.txt
+  - Requirement.txt: 분석에 필요한 패키지
   - frequency_wordcloud_network_analysis.ipynb : 단어 빈도, 워드 클라우드, 네트워크 분석
   - naive_bayes.ipynb : 나이브 베이즈 분류 활용하여 댓글 성향 분석, 예측
   
