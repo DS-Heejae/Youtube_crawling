@@ -44,10 +44,11 @@
 ## 2. 분석 결과
 
 -  단어 빈도 분석
-![count1](https://user-images.githubusercontent.com/60166667/80899141-74cce180-8d47-11ea-8776-b6807a56f8fc.png)
+  ![count1](https://user-images.githubusercontent.com/60166667/80899141-74cce180-8d47-11ea-8776-b6807a56f8fc.png)
 
      
 -  워드 클라우드 분석 결과
+
   ![carword](https://user-images.githubusercontent.com/60166667/80899145-8f9f5600-8d47-11ea-9205-b6d7e615f052.png)
 
    
