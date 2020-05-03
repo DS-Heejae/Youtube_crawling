@@ -1,0 +1,47 @@
+import sys
+
+# 데이터 관련
+import pandas as pd
+import numpy as np
+
+# 자연어 처리 관련
+
+from konlpy.tag import *  
+hannanum = Hannanum()
+okt = Okt()
+kkma = Kkma()
+mecab = Mecab()
+
+# 자연어 빈도 워드 크라우드
+from collections import Counter 
+from wordcloud import WordCloud
+
+# 시각화 관련
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+from matplotlib import font_manager, rc
+
+# 네트워크 분석 관련
+import re
+import csv
+from apyori import apriori
+import networkx as nx
+
+# 몽고DB 관련
+import pymongo
+
+# 나이브 베이즈 관련 
+
+import pickle
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import classification_report
+
+# 긍부정 관련
+from nltk.classify import NaiveBayesClassifier #Tfidf 안해도되나?
+
+
+# 자체 생성 함수 - py 파일 변경 시 커널 리스타트 해줘야 한다.
+from comment_youtube import *
