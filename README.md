@@ -57,10 +57,9 @@
   <img width="949" alt="스크린샷 2020-05-03 오후 9 00 09" src="https://user-images.githubusercontent.com/60166667/80913640-158bc300-8d81-11ea-9814-f27c559e6a10.png">
 
    
-- 나이브 베이즈 분류 결과
-    
-    
-    
+- 나이브 베이즈 분류 결과(1: '타다' 편 2: '택시' 편 3: '중립')
+  <img width="839" alt="스크린샷 2020-05-03 오후 11 21 44" src="https://user-images.githubusercontent.com/60166667/80916627-dc5d4e00-8d94-11ea-9c72-456e60bc7885.png">
+
 
 ## 3. 데이터 수집 프로세스 및 구조도
 
@@ -69,7 +68,7 @@
 
    - 수집 대상 및 기간 
         - item: 개별 동영상들의 제목, 링크, 댓글 남긴 사람 id, 댓글, 좋아요 수
-        - 기간: ?
+        - 기간: 2020년에 업로드된 '타다 금지법' 관련 동영상 댓글 수집 후, 법안 통과 일자 기준으로 2020.3.6~3.31 기간의 영상 댓글 추출
         
    - 크롤링 방법
         - AWS EC2 환경에서 YouTube '타다 금지법' 영상 댓글 크롤링
@@ -82,12 +81,12 @@
 ## 4. 분석 과정에서 작성한 python 코드
 - Crawling
   - Requirement.txt: 분석에 필요한 패키지
-  - scrapy.py: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
+  - scrapycode.ipynb: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
   - module.py: 크롤링에 사용한 모듈
   
 - Comment Analyzer
-  - frequency_network_analysis : 단어 빈도, 워드 클라우드, 네트워크 분석
-  - 추가 예정 : 나이브 베이즈 분류
+  - frequency_network_analysis.ipynb : 단어 빈도, 워드 클라우드, 네트워크 분석
+  - naive_bayes.ipynb : 나이브 베이즈 분류
 
 
 ## 5. 참고문헌
