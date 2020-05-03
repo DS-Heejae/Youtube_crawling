@@ -43,9 +43,9 @@
 
 ## 2. 분석 결과
 
--  단어 빈도 분석
+-  단어 빈도 분석: 타다 금지법 통과 전날(3/5) ~ 통과 후 3/31까지 업로드된 동영상들의 댓글 중, 두 글자 이상의 단어 추출
 
- ![count1](https://user-images.githubusercontent.com/60166667/80899141-74cce180-8d47-11ea-8776-b6807a56f8fc.png)
+<img width="740" alt="스크린샷 2020-05-03 오후 8 58 36" src="https://user-images.githubusercontent.com/60166667/80913625-f55c0400-8d80-11ea-9916-f329607e53f0.png">
 
      
 -  워드 클라우드 분석 결과
@@ -53,10 +53,9 @@
  ![carword](https://user-images.githubusercontent.com/60166667/80899145-8f9f5600-8d47-11ea-9205-b6d7e615f052.png)
 
    
--  단어 별 네트워크 분석 결과
- <img width="911" alt="networktada" src="https://user-images.githubusercontent.com/60166667/80899143-81513a00-8d47-11ea-915d-1c2082c01553.png">
-  
-  
+-  단어 별 네트워크 분석 결과(지지도 0.017)
+  <img width="949" alt="스크린샷 2020-05-03 오후 9 00 09" src="https://user-images.githubusercontent.com/60166667/80913640-158bc300-8d81-11ea-9814-f27c559e6a10.png">
+
    
 - 나이브 베이즈 분류 결과
     
