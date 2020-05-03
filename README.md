@@ -58,15 +58,17 @@
 
    
 - 나이브 베이즈 분류 결과(1: '타다' 편 2: '택시' 편 3: '미분류')
+
+- 대부분 90% 이상의 정확도로 분류하고 있음.
   <img width="683" alt="스크린샷 2020-05-03 오후 11 46 26" src="https://user-images.githubusercontent.com/60166667/80917187-4fb48f00-8d98-11ea-95b6-76cc04604d4b.png">
   
+- 전체 870개 중, 절반에 해당하는 약 400개의 댓글이 '택시'를 옹호하는 입장임을 알 수 있음. '타다'와 '미분류'는 비등.
 <img width="985" alt="스크린샷 2020-05-03 오후 11 58 16" src="https://user-images.githubusercontent.com/60166667/80917469-09602f80-8d9a-11ea-9ca8-3f360895ca35.png">
 
 
 ## 3. 데이터 수집 프로세스 및 구조도
 
 ![structure](https://user-images.githubusercontent.com/60166667/77083157-65683200-6a40-11ea-9bb3-07b323c19224.png)
-
 
    - 수집 대상 및 기간 
         - item: 개별 동영상들의 제목, 링크, 댓글 남긴 사람 id, 댓글, 좋아요 수
@@ -80,7 +82,8 @@
         - DB: mongodb 데이터 베이스에 크롤링한 데이터 저장하는 파이프라인 구축
         
 
-## 4. 분석 과정에서 작성한 python 코드
+## 4. 분석 과정에서 작성한 python 코드 폴더
+
 - Crawling
   - Requirement.txt: 분석에 필요한 패키지
   - scrapycode.ipynb: scrapy를 활용하여 댓글 수집 -> MongoDB에 저장
