@@ -69,7 +69,7 @@
 
 ## 3. 데이터 수집 프로세스 및 구조도
 
-![structure](https://user-images.githubusercontent.com/60166667/77083157-65683200-6a40-11ea-9bb3-07b323c19224.png)
+<img width="1004" alt="스크린샷 2020-05-04 오전 11 05 11" src="https://user-images.githubusercontent.com/60166667/80931809-3262dd80-8df7-11ea-81ba-24849d3b9897.png">
 
    - 수집 대상 및 기간 
         - item: 개별 동영상들의 제목, 링크, 댓글 남긴 사람 id, 댓글, 좋아요 수
@@ -92,7 +92,7 @@
   
 - Comment Analyzer
   - Requirement.txt: 분석에 필요한 패키지
-  - frequency_wordcloud_network_analysis.ipynb : 단어 빈도, 워드 클라우드, 네트워크 분석
+  - frequency_wordcloud_network.ipynb : 단어 빈도, 워드 클라우드, 네트워크 분석
   - naive_bayes.ipynb : 나이브 베이즈 분류 활용하여 댓글 성향 분석, 예측
   
 
