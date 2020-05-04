@@ -92,6 +92,7 @@
   
 - Comment Analyzer
   - Requirement.txt: 분석에 필요한 패키지
+  - comment_youtube.py: 분석에 적용한 사용자 선언 함수
   - frequency_wordcloud_network.ipynb : 단어 빈도, 워드 클라우드, 네트워크 분석
   - naive_bayes.ipynb : 나이브 베이즈 분류 활용하여 댓글 성향 분석, 예측
   
